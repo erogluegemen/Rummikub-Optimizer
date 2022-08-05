@@ -1,0 +1,1 @@
+def validate_integer(user_input: str) -> bool:

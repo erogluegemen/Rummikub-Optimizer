@@ -1,7 +1,6 @@
 total = 0
 total_per = [[3, 4, 5], [2, 2, 2]]  # for testing
 
-
 def check_per(per: list):
     min_len_per = 3
 

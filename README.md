@@ -10,7 +10,7 @@
 - [The Complexity of Rummikub Problems](https://github.com/erogluegemen/101/files/9248926/rummikub.pdf)
 - [Collecting Image](https://medium.com/analytics-vidhya/a-simple-way-to-collect-your-deep-learning-image-dataset-4ead47b6826c)
 - [Image Labeling](https://towardsdatascience.com/building-and-labeling-image-datasets-for-data-science-projects-ab59172e46b4)
-
+- [Rummikub Research](https://cs.paperswithcode.com/paper/160407553)
 ## Process: 
 ![Process](https://user-images.githubusercontent.com/30879498/182543683-7d276e45-a203-4931-b644-d2d3c4dfc702.svg)
 

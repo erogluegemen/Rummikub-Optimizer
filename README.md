@@ -12,6 +12,7 @@
 - [Image Labeling](https://towardsdatascience.com/building-and-labeling-image-datasets-for-data-science-projects-ab59172e46b4)
 - [Rummikub Research](https://cs.paperswithcode.com/paper/160407553)
 - [Arthur Samuel](https://en.wikipedia.org/wiki/Arthur_Samuel)
+- [Data Image Augmentation](https://github.com/mdbloice/Augmentor)
 
 ## Process: 
 ![Process](https://user-images.githubusercontent.com/30879498/182543683-7d276e45-a203-4931-b644-d2d3c4dfc702.svg)

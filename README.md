@@ -19,3 +19,6 @@
 
 ## Flow Charts: 
 ![FlowChart](https://user-images.githubusercontent.com/30879498/181840516-4beab8d5-eaad-4ae4-81e3-c1c842295dc8.svg)
+
+## Tiles:
+![tiles](https://user-images.githubusercontent.com/30879498/187295932-f46730ac-123f-4b18-9574-2d44a5478a67.jpeg)

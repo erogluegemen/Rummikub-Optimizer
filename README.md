@@ -1,8 +1,7 @@
 # 101
 
 ##  Links:
-- [Okey(TR)](https://en.wikipedia.org/wiki/Okey)
-- [Okey(ENG)](https://en.wikipedia.org/wiki/Rummikub)
+- [Okey(TR)](https://en.wikipedia.org/wiki/Okey), [Okey(ENG)](https://en.wikipedia.org/wiki/Rummikub)
 - [Count Objects in Image](https://thecleverprogrammer.com/2021/05/11/count-objects-in-image-using-python/)
 - [Number Recognition](https://www.toptal.com/data-science/machine-learning-number-recognition)
 - [Card Object Detection](https://akhilck.medium.com/playing-card-detection-using-cnn-d89655356cf8)

@@ -2,9 +2,6 @@
 
 ##  Links:
 - [Okey(TR)](https://en.wikipedia.org/wiki/Okey), [Okey(ENG)](https://en.wikipedia.org/wiki/Rummikub)
-- [Count Objects in Image](https://thecleverprogrammer.com/2021/05/11/count-objects-in-image-using-python/)
-- [Number Recognition](https://www.toptal.com/data-science/machine-learning-number-recognition)
-- [Card Object Detection](https://akhilck.medium.com/playing-card-detection-using-cnn-d89655356cf8)
 - [Rummikub Solver with Python](https://github.com/Ollie-Hooper/RummikubSolver)
 - [The Complexity of Rummikub Problems](https://github.com/erogluegemen/101/files/9248926/rummikub.pdf)
 - [Collecting Image](https://medium.com/analytics-vidhya/a-simple-way-to-collect-your-deep-learning-image-dataset-4ead47b6826c)

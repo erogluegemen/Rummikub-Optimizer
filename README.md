@@ -10,8 +10,10 @@
 - [Arthur Samuel](https://en.wikipedia.org/wiki/Arthur_Samuel)
 - [Data Image Augmentation](https://github.com/mdbloice/Augmentor)
 
+
 ## Process: 
 ![Process](https://user-images.githubusercontent.com/30879498/182543683-7d276e45-a203-4931-b644-d2d3c4dfc702.svg)
+
 
 ## Flow Charts: 
 ![FlowChart](https://user-images.githubusercontent.com/30879498/181840516-4beab8d5-eaad-4ae4-81e3-c1c842295dc8.svg)

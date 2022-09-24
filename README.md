@@ -1,5 +1,5 @@
 # 101
- 
+
 ##  Links:
 - [Okey(TR)](https://en.wikipedia.org/wiki/Okey), [Okey(ENG)](https://en.wikipedia.org/wiki/Rummikub)
 - [Rummikub Solver with Python](https://github.com/Ollie-Hooper/RummikubSolver)

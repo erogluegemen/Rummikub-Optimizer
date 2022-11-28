@@ -11,8 +11,10 @@
 - [Data Image Augmentation](https://github.com/mdbloice/Augmentor)
 
 ## Process: 
-![Process](https://user-images.githubusercontent.com/30879498/182543683-7d276e45-a203-4931-b644-d2d3c4dfc702.svg)
+![process](https://user-images.githubusercontent.com/30879498/204377893-1726a28f-dc72-4e6e-932c-797b7837b69f.png)
+
+## Sets:
+![sets](https://user-images.githubusercontent.com/30879498/204378132-fdfa221f-50dd-4006-a480-f8253f8f70c0.png)
 
 ## Flow Charts: 
-![FlowChart](https://user-images.githubusercontent.com/30879498/181840516-4beab8d5-eaad-4ae4-81e3-c1c842295dc8.svg)
-
+![workflow](https://user-images.githubusercontent.com/30879498/204377713-3a9b8161-3b3b-4ba4-ba40-5439227c8a43.png)

@@ -16,5 +16,5 @@
 ## Sets:
 ![sets](https://user-images.githubusercontent.com/30879498/204378132-fdfa221f-50dd-4006-a480-f8253f8f70c0.png)
 
-## Flow Charts: 
+## Workflow: 
 ![workflow](https://user-images.githubusercontent.com/30879498/204377713-3a9b8161-3b3b-4ba4-ba40-5439227c8a43.png)

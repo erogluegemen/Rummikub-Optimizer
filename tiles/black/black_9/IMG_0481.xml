@@ -1,0 +1,26 @@
+<annotation>
+	<folder>black_9</folder>
+	<filename>IMG_0481.JPG</filename>
+	<path>/Users/egemeneroglu/PycharmProjects/101_project/tiles/black/black_9/IMG_0481.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3024</width>
+		<height>4032</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>black_9</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>161</xmin>
+			<ymin>223</ymin>
+			<xmax>2585</xmax>
+			<ymax>3585</ymax>
+		</bndbox>
+	</object>
+</annotation>

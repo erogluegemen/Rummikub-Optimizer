@@ -8,6 +8,23 @@ st.snow()
 
 # Using "with" notation
 with st.sidebar:
+    st.markdown(" <h1 style='text-align:center;'> SELECT TYPE</h1>", unsafe_allow_html=True)
+    genre = st.radio(
+    "Type",('Normal Set', 'Double Set'))
+
+    if genre == 'Normal Set':
+        st.write(f'{genre} option selected.')
+        # this part will trigger the normal set functions.
+
+    if genre == 'Double Set':
+        st.write(f'{genre} option selected.')
+        # this part will trigger the double set functions.
+
+    else:
+        pass
+        
+
+
     st.markdown(" <h1 style='text-align:center;'> SELECT OKEY</h1>", unsafe_allow_html=True)
     okey_number = st.slider('Okey Number', 1, 13)
     
@@ -29,20 +46,13 @@ if check:
     picture = st.camera_input(label='camera', label_visibility='hidden')
 
 
-col1, col2, col3, col4 = st.columns(4)
+col1, col2 =  st.columns(2)
 
-with col1.empty():
-    pass
+with col1:
+    st.button('Calculate')
     
 with col2:
-    st.button('Calculate')
-
-with col3:
     st.button('Maximize')
-
-with col4.empty():
-    pass
-    
 
 
 

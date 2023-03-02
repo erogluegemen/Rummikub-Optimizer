@@ -15,6 +15,19 @@
 
 - [Data Image Augmentation](https://github.com/mdbloice/Augmentor)
 
+## Steps:
+1-) Collect a large dataset of images containing the 54 objects you want to detect. The dataset should include a variety of lighting conditions, backgrounds, and angles.
+
+2-)Annotate the dataset by labeling each object in each image with a bounding box that surrounds it. There are several annotation tools available, such as LabelImg, RectLabel, and VGG Image Annotator.
+
+3-)Choose a deep learning framework, such as TensorFlow or PyTorch, and select a pre-trained object detection model as a starting point. There are many pre-trained models available, such as YOLO, SSD, and Faster R-CNN.
+
+4-)Fine-tune the pre-trained model on your annotated dataset by training it on your images. This involves feeding your images and their corresponding annotations into the model and adjusting the model's parameters to minimize the difference between the predicted bounding boxes and the ground truth annotations.
+
+5-)Evaluate the performance of your model by measuring its precision and recall on a separate test dataset. If the performance is not satisfactory, you can try adjusting the model architecture, training parameters, or dataset.
+
+6-)Once you are satisfied with the performance of your model, you can use it to detect the 54 objects in new images or videos.
+
 ## Process: 
 ![process](https://user-images.githubusercontent.com/30879498/204377893-1726a28f-dc72-4e6e-932c-797b7837b69f.png)
 

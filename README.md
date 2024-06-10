@@ -1,5 +1,7 @@
-# 101
+# Rummikub-Optimizer
 
+## Overview
+**Rummikub-Optimizer** is a project designed to enhance gameplay strategy for the popular tile-based game, Rummikub. Utilizing advanced algorithms and image processing, this tool analyzes the game board and provides optimal moves to maximize your chances of winning. Users can take a picture of their rack, and the application will recognize the tiles and optimize them for the best possible moves. Ideal for both casual players and competitive enthusiasts, Rummikub-Optimizer helps improve your strategic decisions and overall game performance.
 ## Articles & Academic Papers
 - [solving rummikub problems by integer linear programming](https://github.com/erogluegemen/101/files/10107439/solving.rummikub.problems.by.integer.linear.programming.1.pdf)
 - [The Complexity of Rummikub Problems](https://github.com/erogluegemen/101/files/10107449/rummikub.pdf)

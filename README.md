@@ -37,3 +37,7 @@
 
 ## Workflow: 
 ![workflow](https://user-images.githubusercontent.com/30879498/204377713-3a9b8161-3b3b-4ba4-ba40-5439227c8a43.png)
+
+## Contributors
+[@Zeynep Cagla Baykan](https://github.com/zeynepcaglabaykan) <br>
+[@Egemen Eroglu](https://github.com/erogluegemen)
